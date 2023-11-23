@@ -1,4 +1,4 @@
-package com.first_internet.FirstInternet;
+package com.first_internet.first_internet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
